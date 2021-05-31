@@ -1,4 +1,4 @@
-package topics.solid_principles;
+package topics.solid_principles.SingleResponsibility;
 
 public class Mailer {
     public static void sendMail(String content){
