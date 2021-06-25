@@ -1,4 +1,4 @@
-package topics.structural.composite_telescu;
+package topics.structural.composite;
 
 public interface Component {
     public void showPrice();

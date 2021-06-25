@@ -1,4 +1,4 @@
-package topics.structural.composite_telescu;
+package topics.structural.composite;
 
 public class Leaf implements Component {
     private String name;
