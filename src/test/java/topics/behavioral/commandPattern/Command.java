@@ -1,2 +1,5 @@
-package topics.behavioral.commandPattern;public interface Command {
+package topics.behavioral.commandPattern;
+
+public interface Command {
+    public void execute();
 }
